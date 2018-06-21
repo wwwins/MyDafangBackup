@@ -1,0 +1,1 @@
+*/5 * * * * /system/sdcard/scripts/checkwifi.sh > /dev/null
